@@ -10,7 +10,7 @@ My work focuses on building **highly available systems, event-driven architectur
 
 # Professional Summary
 
-I am currently working as a **Solutions Architect / Full Stack Engineer at JPMorgan Chase (Glasgow, UK)**, where I design and implement scalable cloud-native systems used by millions of clients.
+I am currently working as a **Solutions Architect / AWS Full Stack Engineer for a leading global financial institution**, where I design and implement scalable cloud-native systems used by millions of clients.
 
 My experience spans:
 
@@ -28,13 +28,13 @@ I have delivered systems supporting **millions of users and large-scale financia
 
 • Designed and implemented **cloud-native platforms using AWS Well-Architected Framework**
 
-• Extensive experience in **designing and implementing microservices architectures** using **Java, Spring Boot, Kafka, and AWS services**, enabling scalable distributed systems
+• Extensive experience in **designing and implementing microservices architectures** using **Java, Spring Boot, Kafka, and AWS services**, enabling scalable distributed systems.
+
+• Built a **Data Mesh platform serving 9M+ wealth management clients**
 
 • Led **object storage migration initiatives**, modernizing enterprise storage platforms by migrating legacy systems to **AWS S3 and cloud-native object storage**
 
 • Delivered **MuleSoft to Java/Spring Boot migration programs**, modernizing integration layers and improving system performance, scalability, and maintainability
-
-• Built a **Data Mesh platform serving 9M+ wealth management clients**
 
 • Engineered **event-driven architectures using Kafka, AWS Lambda, and Step Functions**
 
@@ -50,8 +50,8 @@ I have delivered systems supporting **millions of users and large-scale financia
 
 # Professional Experience
 
-## JPMorgan Chase — Solutions Architect / Full Stack Engineer
-Glasgow, UK | 2019 – Present
+## Leading Global Financial Institution — Solutions Architect / AWS Full Stack Engineer
+2019 – Present
 
 Leading architecture design and development of scalable financial platforms.
 
@@ -71,8 +71,8 @@ Key work includes:
 
 ---
 
-## JPMorgan Chase — Technical Architect / Lead Developer
-Columbus, USA | 2017 – 2019
+## Leading Global Financial Institution — Technical Architect / Lead Developer
+2017 – 2019
 
 Led modernization initiatives and architecture transformations.
 
@@ -90,10 +90,10 @@ Key achievements:
 
 ---
 
-## Microsoft — Senior Developer
-Hyderabad, India | 2014 – 2017
+## Global Technology Company — Senior Developer
+2014 – 2017
 
-Worked in Microsoft's **CCOE (Cloud Center of Excellence)** team building enterprise cloud systems.
+Worked in a **Cloud Center of Excellence (CCOE)** team building enterprise cloud systems.
 
 Highlights:
 
@@ -101,7 +101,7 @@ Highlights:
 
 • Implemented **data migration from legacy storage to AWS S3 and DynamoDB**
 
-• Designed **secure enterprise systems using Azure KeyVault**
+• Designed **secure enterprise systems using cloud-native security services**
 
 • Implemented **circuit breaker patterns for microservices resilience**
 
@@ -109,8 +109,8 @@ Highlights:
 
 ---
 
-## Virtusa Polaris — Senior Developer
-Hyderabad, India | 2010 – 2014
+## Global IT Services Company — Senior Developer
+2010 – 2014
 
 Worked on enterprise product development and platform engineering.
 
@@ -218,7 +218,7 @@ I focus on designing systems that are:
 
 When designing cloud systems, I follow the **AWS Well-Architected Framework** and **Azure Well-Architected principles** to ensure solutions are **resilient, maintainable, and production-ready**.
 
-The goal is always to **deliver the best possible solution architecture that balances reliability, performance, security, and cost while supporting long-term scalability and operational excellence.**
+The goal is always to **deliver the best possible solution architecture that balances reliability, performance, security, and cost while supporting long-term scalability and operational excellence**.
 
 ---
 
@@ -226,6 +226,9 @@ The goal is always to **deliver the best possible solution architecture that bal
 
 LinkedIn  
 https://www.linkedin.com/in/pravinmantena
+
+✍️ Medium  
+https://medium.com/@praveenkumar.mantena.uk
 
 Email  
 praveenkumar.mantena.uk@gmail.com
