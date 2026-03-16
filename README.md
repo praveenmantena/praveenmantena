@@ -18,7 +18,6 @@ My experience spans:
 • Microservices and event-driven architectures  
 • Enterprise data platforms and Data Mesh  
 • Cloud migration and modernization programs  
-• DevOps automation and infrastructure as code  
 
 I have delivered systems supporting **millions of users and large-scale financial workloads**.
 
