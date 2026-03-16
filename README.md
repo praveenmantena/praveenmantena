@@ -205,16 +205,20 @@ The goal is to demonstrate **how real-world cloud platforms are designed and imp
 
 # Architecture Philosophy
 
-Technology systems inevitably fail at some point.
+My approach to architecture is guided by **cloud well-architected principles and best practices** across both **AWS and Azure**.
 
-Well-designed systems are **not those that avoid failure entirely**, but those that **recover quickly and continue operating under failure conditions**.
+I focus on designing systems that are:
 
-My focus when designing systems is:
+• **Reliable** – Built for high availability and fault tolerance  
+• **Scalable** – Able to handle growth and changing workloads  
+• **Secure** – Implementing strong identity, access control, and governance  
+• **Efficient** – Optimizing performance and resource utilization  
+• **Cost Optimized** – Designing architectures that balance performance and cost  
+• **Operationally Excellent** – Enabling observability, automation, and continuous improvement  
 
-• Resilience  
-• Scalability  
-• Observability  
-• Simplicity  
+When designing cloud systems, I follow the **AWS Well-Architected Framework** and **Azure Well-Architected principles** to ensure solutions are **resilient, maintainable, and production-ready**.
+
+The goal is always to **deliver the best possible solution architecture that balances reliability, performance, security, and cost while supporting long-term scalability and operational excellence.**
 
 ---
 
