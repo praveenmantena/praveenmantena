@@ -1,6 +1,6 @@
 # Hi, I'm Venkata Praveen Kumar Mantena 👋
 
-Technical Architect | Full Stack Developer | AWS Certified Solutions Architect
+Technical Architect | AWS Full Stack Developer | AWS Certified Solutions Architect
 
 Technology professional with **16+ years of experience** designing scalable, cloud-native platforms and leading enterprise architecture initiatives. I specialize in **AWS architecture, distributed systems, microservices, and enterprise data platforms**.
 
