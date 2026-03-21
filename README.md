@@ -227,7 +227,7 @@ LinkedIn
 https://www.linkedin.com/in/pravinmantena
 
 ✍️ Medium  
-https://medium.com/@praveenkumar.mantena.uk
+https://medium.com/@praveen.mantena.kumar
 
 Email  
 praveenkumar.mantena.uk@gmail.com
