@@ -230,4 +230,4 @@ https://www.linkedin.com/in/pravinmantena
 https://medium.com/@praveen.mantena.kumar
 
 Email  
-praveenkumar.mantena.uk@gmail.com
+praveen.mantena.kumar@gmail.com
